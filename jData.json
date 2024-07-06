@@ -1,0 +1,44 @@
+{
+    "users": [
+        {
+            "name": "Harry",
+            "age": 30,
+            "email": "harry679@gmail.com"
+        },
+        {
+            "name": "Manish",
+            "age": 25,
+            "email": "manishsinha@gmail.com"
+        },
+        {
+            "name": "Neha",
+            "age": 35,
+            "email": "nehay0955@gmail.com"
+        },
+        {
+            "name": "Harsh",
+            "age": 35,
+            "email": "harshm899@gmail.com"
+        },
+        {
+            "name": "Aryan",
+            "age": 35,
+            "email": "aryanj34@gmail.com"
+        },
+        {
+            "name": "Satish",
+            "age": 35,
+            "email": "satishtm56@gmail.com"
+        },
+        {
+            "name": "Jhanvi",
+            "age": 35,
+            "email": "jhanvi65@gmail.com"
+        },
+        {
+            "name": "Ishan",
+            "age": 35,
+            "email": "ishanreddy54@gmail.com"
+        }
+    ]
+}
