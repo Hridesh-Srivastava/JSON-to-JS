@@ -1,2 +1,2 @@
 # JSON-to-JS
-Import your data.json using JavaScript only.
+Import your all data of JSON using JavaScript only.
